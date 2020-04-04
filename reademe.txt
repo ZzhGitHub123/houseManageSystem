@@ -1,0 +1,7 @@
+登陆地址：
+http://localhost:8080/register.action
+
+数据库：
+host : 101.200.169.159
+username:   db_user_chicken
+pass:    db_pass
